@@ -12,7 +12,7 @@ Drag, flick, and manipulate cubes with your mouse, and adjust physics parameters
 Demo
 
 
-[GIF: Shows cubes being dragged, flicked, and colliding with each other.](demos\Cubes Demo.gif)
+![GIF: Shows cubes being dragged, flicked, and colliding with each other.](demos/Cubes%20Demo.gif)
 
 Features
 
